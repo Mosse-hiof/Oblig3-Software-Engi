@@ -1,7 +1,7 @@
 # Oblig3-Software-Engi
 # SE-oblig3
-Software Engineering oblig3 innlevering
-Jeg samarbeidet med Ibrahim Yusupov i denne obligen
+- Software Engineering oblig3 innlevering
+- Jeg samarbeidet med Ibrahim Yusupov i denne obligen
 
 - Jeg brukte python i min tidligere innlevering og bestemte meg derfor for å bruke python i denne innleveringen også.
 - Jeg begynte først med å lage en egen repository for innleveringen kalt ''Oblig3-Software-Engi''
